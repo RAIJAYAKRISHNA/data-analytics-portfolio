@@ -17,6 +17,9 @@
 **Repository:**
 [Sales Analytics Dashboard](https://github.com/RAIJAYAKRISHNA/sales-analytics-dashboard)
 
+**Preview**
+<img width="1847" height="561" alt="image" src="https://github.com/user-attachments/assets/828b2727-571d-49d0-aadf-3851bf754232" />
+
 ---
 
 ### 2. HR Analytics Dashboard
@@ -34,6 +37,9 @@
 
 **Repository:**
 [HR Analytics Dashboard](https://github.com/RAIJAYAKRISHNA/hr-analytics-dashboard)
+
+**Preview**
+<img width="1852" height="720" alt="dashboard" src="https://github.com/user-attachments/assets/c14f724b-64c0-48f1-b470-eab379ade882" />
 
 ---
 
@@ -53,6 +59,9 @@
 
 **Repository:**
 [Student Performance Analytics Dashboard](https://github.com/RAIJAYAKRISHNA/student-performance-dashboard)
+
+**Preview**
+<img width="1367" height="701" alt="dashboard" src="https://github.com/user-attachments/assets/941c8207-c759-4997-a4fc-05dabc6f4518" />
 
 ---
 
